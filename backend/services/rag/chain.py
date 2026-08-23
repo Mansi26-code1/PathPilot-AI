@@ -136,14 +136,15 @@ scope_check_chain = (
 
 import re
 
-
 def clean_url(url: str) -> str:
     """Convert Markdown-formatted URLs into plain URLs."""
 
     if not url:
         return url
 
-    # [https://example.com](https://example.com)
+    url = str(url).strip()
+
+    # [text](https://example.com)
     match = re.match(r"\[.*?\]\((https?://[^)]+)\)", url)
 
     if match:
@@ -154,7 +155,6 @@ def clean_url(url: str) -> str:
         return url[1:-1]
 
     return url
-
 
 def is_in_scope(question: str) -> bool:
     """
@@ -208,16 +208,18 @@ def generate_rag_response(question: str):
     for document in documents:
 
         metadata = document.metadata
-
         curated_resources.append(
-            {
-                "title": metadata.get("title"),
-                "url": clean_url(metadata.get("url")),
-                "skill": metadata.get("skill"),
-                "level": metadata.get("level"),
-                "source": metadata.get("source")
-            }
-        )
+    {
+        "title": metadata.get("title"),
+        "description": metadata.get("description", ""),
+        "url": clean_url(metadata.get("url")),
+        "skill": metadata.get("skill"),
+        "level": metadata.get("level"),
+        "source": metadata.get("source")
+    }
+)
+
+        
 
     # --------------------------------------------------
     # STEP 2: ALWAYS search web as well
