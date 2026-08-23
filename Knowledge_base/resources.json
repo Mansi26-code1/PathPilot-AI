@@ -1,0 +1,290 @@
+[
+  {
+    "title": "Python Official Tutorial",
+    "url": "https://docs.python.org/3/tutorial/",
+    "skill": "Python",
+    "level": "Beginner",
+    "source": "Python Documentation"
+  },
+  {
+    "title": "freeCodeCamp Python for Everybody",
+    "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/",
+    "skill": "Python",
+    "level": "Beginner",
+    "source": "freeCodeCamp"
+  },
+  {
+    "title": "Real Python Tutorials",
+    "url": "https://realpython.com/",
+    "skill": "Python",
+    "level": "Intermediate",
+    "source": "Real Python"
+  },
+
+  {
+    "title": "W3Schools SQL Tutorial",
+    "url": "https://www.w3schools.com/sql/",
+    "skill": "SQL",
+    "level": "Beginner",
+    "source": "W3Schools"
+  },
+  {
+    "title": "SQLBolt Interactive SQL Lessons",
+    "url": "https://sqlbolt.com/",
+    "skill": "SQL",
+    "level": "Beginner",
+    "source": "SQLBolt"
+  },
+  {
+    "title": "Mode Analytics SQL Tutorial",
+    "url": "https://mode.com/sql-tutorial/",
+    "skill": "SQL",
+    "level": "Intermediate",
+    "source": "Mode"
+  },
+
+  {
+    "title": "Google Machine Learning Crash Course",
+    "url": "https://developers.google.com/machine-learning/crash-course",
+    "skill": "Machine Learning",
+    "level": "Beginner",
+    "source": "Google Developers"
+  },
+  {
+    "title": "Andrew Ng's Machine Learning Specialization",
+    "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "skill": "Machine Learning",
+    "level": "Beginner",
+    "source": "Coursera"
+  },
+  {
+    "title": "Scikit-learn Official Documentation",
+    "url": "https://scikit-learn.org/stable/user_guide.html",
+    "skill": "Machine Learning",
+    "level": "Intermediate",
+    "source": "Scikit-learn Documentation"
+  },
+
+  {
+    "title": "Deep Learning Specialization by Andrew Ng",
+    "url": "https://www.coursera.org/specializations/deep-learning",
+    "skill": "Deep Learning",
+    "level": "Intermediate",
+    "source": "Coursera"
+  },
+  {
+    "title": "PyTorch Official Tutorials",
+    "url": "https://pytorch.org/tutorials/",
+    "skill": "Deep Learning",
+    "level": "Intermediate",
+    "source": "PyTorch Documentation"
+  },
+  {
+    "title": "TensorFlow Official Tutorials",
+    "url": "https://www.tensorflow.org/tutorials",
+    "skill": "Deep Learning",
+    "level": "Intermediate",
+    "source": "TensorFlow Documentation"
+  },
+
+  {
+    "title": "Hugging Face NLP Course",
+    "url": "https://huggingface.co/learn/nlp-course",
+    "skill": "NLP",
+    "level": "Intermediate",
+    "source": "Hugging Face"
+  },
+  {
+    "title": "spaCy 101 Course",
+    "url": "https://course.spacy.io/en/",
+    "skill": "NLP",
+    "level": "Beginner",
+    "source": "spaCy"
+  },
+
+  {
+    "title": "DeepLearning.AI Generative AI for Everyone",
+    "url": "https://www.coursera.org/learn/generative-ai-for-everyone",
+    "skill": "GenAI",
+    "level": "Beginner",
+    "source": "DeepLearning.AI"
+  },
+  {
+    "title": "OpenAI Documentation",
+    "url": "https://platform.openai.com/docs",
+    "skill": "GenAI",
+    "level": "Intermediate",
+    "source": "OpenAI Documentation"
+  },
+  {
+    "title": "Prompt Engineering Guide",
+    "url": "https://www.promptingguide.ai/",
+    "skill": "GenAI",
+    "level": "Beginner",
+    "source": "PromptingGuide.ai"
+  },
+
+  {
+    "title": "LangChain RAG Tutorial",
+    "url": "https://python.langchain.com/docs/tutorials/rag/",
+    "skill": "RAG",
+    "level": "Intermediate",
+    "source": "LangChain Documentation"
+  },
+  {
+    "title": "Pinecone RAG Learning Center",
+    "url": "https://www.pinecone.io/learn/retrieval-augmented-generation/",
+    "skill": "RAG",
+    "level": "Intermediate",
+    "source": "Pinecone"
+  },
+
+  {
+    "title": "LangChain Official Documentation",
+    "url": "https://python.langchain.com/docs/introduction/",
+    "skill": "LangChain",
+    "level": "Beginner",
+    "source": "LangChain Documentation"
+  },
+  {
+    "title": "LangGraph Official Documentation",
+    "url": "https://langchain-ai.github.io/langgraph/",
+    "skill": "LangChain",
+    "level": "Intermediate",
+    "source": "LangChain Documentation"
+  },
+
+  {
+    "title": "Pro Git Book (free)",
+    "url": "https://git-scm.com/book/en/v2",
+    "skill": "Git/GitHub",
+    "level": "Beginner",
+    "source": "Git Documentation"
+  },
+  {
+    "title": "GitHub Skills Interactive Courses",
+    "url": "https://skills.github.com/",
+    "skill": "Git/GitHub",
+    "level": "Beginner",
+    "source": "GitHub"
+  },
+
+  {
+    "title": "Docker Get Started Guide",
+    "url": "https://docs.docker.com/get-started/",
+    "skill": "Docker",
+    "level": "Beginner",
+    "source": "Docker Documentation"
+  },
+  {
+    "title": "Docker Curriculum",
+    "url": "https://docker-curriculum.com/",
+    "skill": "Docker",
+    "level": "Beginner",
+    "source": "Docker Curriculum"
+  },
+
+  {
+    "title": "AWS Free Tier and Getting Started",
+    "url": "https://aws.amazon.com/getting-started/",
+    "skill": "AWS",
+    "level": "Beginner",
+    "source": "AWS Documentation"
+  },
+  {
+    "title": "AWS Skill Builder Free Courses",
+    "url": "https://skillbuilder.aws/",
+    "skill": "AWS",
+    "level": "Beginner",
+    "source": "AWS Skill Builder"
+  },
+
+  {
+    "title": "OWASP Top 10",
+    "url": "https://owasp.org/www-project-top-ten/",
+    "skill": "Cybersecurity",
+    "level": "Intermediate",
+    "source": "OWASP"
+  },
+  {
+    "title": "TryHackMe Complete Beginner Path",
+    "url": "https://tryhackme.com/path/outline/beginner",
+    "skill": "Cybersecurity",
+    "level": "Beginner",
+    "source": "TryHackMe"
+  },
+
+  {
+    "title": "Kaggle Learn — Data Science Micro-courses",
+    "url": "https://www.kaggle.com/learn",
+    "skill": "Data Science",
+    "level": "Beginner",
+    "source": "Kaggle"
+  },
+  {
+    "title": "IBM Data Science Professional Certificate",
+    "url": "https://www.coursera.org/professional-certificates/ibm-data-science",
+    "skill": "Data Science",
+    "level": "Beginner",
+    "source": "Coursera"
+  },
+
+  {
+    "title": "Google Data Analytics Professional Certificate",
+    "url": "https://www.coursera.org/professional-certificates/google-data-analytics",
+    "skill": "Data Analyst",
+    "level": "Beginner",
+    "source": "Coursera"
+  },
+  {
+    "title": "Microsoft Power BI Learning Path",
+    "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi",
+    "skill": "Data Analyst",
+    "level": "Beginner",
+    "source": "Microsoft Learn"
+  },
+
+  {
+    "title": "roadmap.sh Software Engineer Roadmap",
+    "url": "https://roadmap.sh/software-design-architecture",
+    "skill": "Software Engineering",
+    "level": "Intermediate",
+    "source": "roadmap.sh"
+  },
+  {
+    "title": "CS50: Introduction to Computer Science",
+    "url": "https://cs50.harvard.edu/x/",
+    "skill": "Software Engineering",
+    "level": "Beginner",
+    "source": "Harvard CS50"
+  },
+  {
+    "title": "Refactoring Guru — Design Patterns",
+    "url": "https://refactoring.guru/design-patterns",
+    "skill": "Software Engineering",
+    "level": "Intermediate",
+    "source": "Refactoring Guru"
+  },
+
+  {
+    "title": "freeCodeCamp Full Stack Developer Curriculum",
+    "url": "https://www.freecodecamp.org/learn/",
+    "skill": "Full Stack Developer",
+    "level": "Beginner",
+    "source": "freeCodeCamp"
+  },
+  {
+    "title": "The Odin Project — Full Stack Path",
+    "url": "https://www.theodinproject.com/",
+    "skill": "Full Stack Developer",
+    "level": "Beginner",
+    "source": "The Odin Project"
+  },
+  {
+    "title": "MERN Stack roadmap.sh",
+    "url": "https://roadmap.sh/full-stack",
+    "skill": "Full Stack Developer",
+    "level": "Intermediate",
+    "source": "roadmap.sh"
+  }
+]
