@@ -1,6 +1,14 @@
 # 🧭 PathPilot AI — Your Personalized AI Career Mentor
 
 PathPilot AI is a full-stack AI career platform built for CS students and freshers who don't know which tech role fits them, what skills they're missing, or how to prepare — the exact problem I faced myself while job-hunting. It connects resume analysis, ATS scoring, JD matching, an AI mentor, a RAG-based learning hub, and a multi-agent "Should I Apply?" decision workflow into one working product.
+## 🚀 Live Demo
+👉 [Try PathPilot AI (Frontend)](https://pathpilot-ai-frontend.onrender.com)
+
+## 🔧 Backend API
+👉 [API Docs (Swagger UI)](https://pathpilot-ai-yar6.onrender.com/docs)
+
+**Note:** Hosted on Render's free tier — first load may take 30-50 seconds if the app was inactive (cold start).
+
 
 ## 🎯 What it does
 
