@@ -1,11 +1,12 @@
-from langchain_huggingface import HuggingFaceEmbeddings
-
+from langchain_huggingface import HuggingFaceEndpointEmbeddings
+import os
 
 def get_embedding_model():
     """
-    Create and return the HuggingFace embedding model.
+    Use HuggingFace's hosted Inference API instead of loading
+    the model locally — saves RAM on low-memory servers.
     """
-
-    return HuggingFaceEmbeddings(
-        model_name="sentence-transformers/all-MiniLM-L6-v2"
+    return HuggingFaceEndpointEmbeddings(
+        model="sentence-transformers/all-MiniLM-L6-v2",
+        huggingfacehub_api_token=os.getenv("HF_TOKEN"),
     )
