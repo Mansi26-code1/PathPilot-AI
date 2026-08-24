@@ -4,7 +4,7 @@ import os
 
 BASE_URL = os.getenv(
     "BACKEND_URL",
-    "https://pathpilot-ai-backend-cana.onrender.com"
+    "http://127.0.0.1:8000"
     
 )
 
